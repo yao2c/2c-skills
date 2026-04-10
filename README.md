@@ -15,3 +15,4 @@ cp <skill-name>.md ~/.claude/commands/
 | Skill | 功能 |
 |-------|------|
 | [summarize-video](./summarize-video/) | 总结 B站、小红书、YouTube 等平台视频，无字幕时自动 Whisper 转录 |
+| [xiaohongshu-posting](./xiaohongshu-posting/) | 根据书桌/学习照片生成小红书标题、正文、标签，支持趋势扫描与迭代修改 |
