@@ -16,3 +16,4 @@ cp <skill-name>.md ~/.claude/commands/
 |-------|------|
 | [summarize-video](./summarize-video/) | 总结 B站、小红书、YouTube 等平台视频，无字幕时自动 Whisper 转录 |
 | [xiaohongshu-posting](./xiaohongshu-posting/) | 根据书桌/学习照片生成小红书标题、正文、标签，支持趋势扫描与迭代修改 |
+| [ai-article](./ai-article/) | 引导式写作 skill，通过逐模块追问深挖产品故事，为 AI 产品创作者生成微信公众号 / X Thread 文章 |
