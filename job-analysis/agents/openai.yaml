@@ -1,0 +1,4 @@
+interface:
+  display_name: "Job Analysis"
+  short_description: "Analyze JDs and tailor resumes for PM/UX roles"
+  default_prompt: "Use $job-analysis to analyze this JD and tell me how to revise my resume for the role."
